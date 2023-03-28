@@ -1,0 +1,364 @@
+{
+  "notes": [
+    
+      {
+       "name": "Ping Prasarnsuk",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_1.PNG",
+       "imageurl": "./Letters/gift_1.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Wai Gong",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_2.PNG",
+       "imageurl": "./Letters/gift_2.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Ping Prasarnsuk",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_3.PNG",
+       "imageurl": "./Letters/gift_3.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Napan Lee",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_4.PNG",
+       "imageurl": "./Letters/gift_4.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Wai Po",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_5.PNG",
+       "imageurl": "./Letters/gift_5.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Layla Yang",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_6.PNG",
+       "imageurl": "./Letters/gift_6.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Jon Nie",
+       "envelopeurl": "./Envelopes/envelope_gift.png",
+       "image": "gift_7.PNG",
+       "imageurl": "./Letters/gift_7.PNG",
+       "language": "Gifts"
+      },
+      {
+       "name": "Theingi Thann",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_1.PNG",
+       "imageurl": "./Letters/physical_1.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Ivy Zhu",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_2.PNG",
+       "imageurl": "./Letters/physical_2.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Mom",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_3.PNG",
+       "imageurl": "./Letters/physical_3.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Dudu",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_4.PNG",
+       "imageurl": "./Letters/physical_4.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Michi Chen",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_5.PNG",
+       "imageurl": "./Letters/physical_5.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Aaron Roseland",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_6.PNG",
+       "imageurl": "./Letters/physical_6.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Dad",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_1.PNG",
+       "imageurl": "./Letters/service_1.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Layla Yang",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_2.PNG",
+       "imageurl": "./Letters/service_2.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Pete Young",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_3.PNG",
+       "imageurl": "./Letters/service_3.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Li Qi Wong",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_4.PNG",
+       "imageurl": "./Letters/service_4.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Auntie Xiao Qing",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": " service_5.PNG",
+       "imageurl": "./Letters/ service_5.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Kevin Meng",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_6.PNG",
+       "imageurl": "./Letters/service_6.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Yuki Xu",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_7.PNG",
+       "imageurl": "./Letters/service_7.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Doris Ni",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_8.PNG",
+       "imageurl": "./Letters/service_8.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Michi Chen",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_9.PNG",
+       "imageurl": "./Letters/service_9.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Frank Xiao",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_10.PNG",
+       "imageurl": "./Letters/service_10.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Ivy Zhu",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_11.PNG",
+       "imageurl": "./Letters/service_11.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Tommy Dong &amp; Run Gong",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_12.PNG",
+       "imageurl": "./Letters/service_12.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Michael Barlow",
+       "envelopeurl": "./Envelopes/envelope_service.png",
+       "image": "service_13.PNG",
+       "imageurl": "./Letters/service_13.PNG",
+       "language": "Acts of Service"
+      },
+      {
+       "name": "Wai Gong",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_1.PNG",
+       "imageurl": "./Letters/time_1.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Michi Chen",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_2.PNG",
+       "imageurl": "./Letters/time_2.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Sara Fraser",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_3.PNG",
+       "imageurl": "./Letters/time_3.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Tiffany Wu",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_4.PNG",
+       "imageurl": "./Letters/time_4.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Mom",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_5.PNG",
+       "imageurl": "./Letters/time_5.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Tiffany Wu",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_6.PNG",
+       "imageurl": "./Letters/time_6.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Dad",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_7.PNG",
+       "imageurl": "./Letters/time_7.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Viraj Bakliwal",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_8.PNG",
+       "imageurl": "./Letters/time_8.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Kevin Meng",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_9.PNG",
+       "imageurl": "./Letters/time_9.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Emily Rose Ardnt",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_10.PNG",
+       "imageurl": "./Letters/time_10.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Erin Xi",
+       "envelopeurl": "./Envelopes/envelope_time.png",
+       "image": "time_11.PNG",
+       "imageurl": "./Letters/time_11.PNG",
+       "language": "Quality Time"
+      },
+      {
+       "name": "Alex Ge",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_1.PNG",
+       "imageurl": "./Letters/words_1.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Mom",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_2.PNG",
+       "imageurl": "./Letters/words_2.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Stella Guernsey",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_3.PNG",
+       "imageurl": "./Letters/words_3.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Aaron Roseland",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_4.PNG",
+       "imageurl": "./Letters/words_4.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Jason Chen",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_5.PNG",
+       "imageurl": "./Letters/words_5.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Aaron Roseland",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_6.PNG",
+       "imageurl": "./Letters/words_6.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Alex Ge &amp; Tommy Dong",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_7.PNG",
+       "imageurl": "./Letters/words_7.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Erin Xi",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_8.PNG",
+       "imageurl": "./Letters/words_8.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Aviva Dalmia",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_9.PNG",
+       "imageurl": "./Letters/words_9.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Jewel Baek",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_10.PNG",
+       "imageurl": "./Letters/words_10.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Will Kee",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_11.PNG",
+       "imageurl": "./Letters/words_11.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Kevin Meng",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_12.PNG",
+       "imageurl": "./Letters/words_12.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Wai Po",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_13.PNG",
+       "imageurl": "./Letters/words_13.PNG",
+       "language": "Words of Affirmation"
+      },
+      {
+       "name": "Tiffany Wu",
+       "envelopeurl": "./Envelopes/envelope_words.png",
+       "image": "words_14.PNG",
+       "imageurl": "./Letters/words_14.PNG",
+       "language": "Words of Affirmation"
+      }
+     
+     ]
+
+}

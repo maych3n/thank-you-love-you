@@ -1,0 +1,49 @@
+{
+  "physical": [
+    
+      {
+       "name": "Theingi Thann",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_1.PNG",
+       "imageurl": "./Letters/physical_1.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Ivy Zhu",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_2.PNG",
+       "imageurl": "./Letters/physical_2.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Mom",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_3.PNG",
+       "imageurl": "./Letters/physical_3.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Dudu",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_4.PNG",
+       "imageurl": "./Letters/physical_4.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Michi Chen",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_5.PNG",
+       "imageurl": "./Letters/physical_5.PNG",
+       "language": "Physical Touch"
+      },
+      {
+       "name": "Aaron Roseland",
+       "envelopeurl": "./Envelopes/envelope_physical.png",
+       "image": "physical_6.PNG",
+       "imageurl": "./Letters/physical_6.PNG",
+       "language": "Physical Touch"
+      }
+     
+     ]
+
+}
